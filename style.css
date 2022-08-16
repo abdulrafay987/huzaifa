@@ -1,0 +1,18 @@
+#name{border: 2px solid rgb(255, 255, 255);;outline: 0px;border-radius: 5px; }
+#email{border: 2px solid rgb(255, 255, 255);margin-top: 5px;;outline: 0px;border-radius: 5px;}
+#password{border: 2px solid rgb(255, 255, 255);margin-top: 5px;;outline: 0px;border-radius: 5px;}
+
+#button{
+    background-color: rgb(0, 0, 0);color: white;
+    margin-top: 13px;
+    border-radius: 5px;}
+
+input{
+    box-shadow: 0px 0px 3px 3px rgb(0, 0, 0);
+    
+    margin: 10px;
+}
+i{
+    border: 10px solid rgb(0, 0, 0);
+    font-size: 210px !important;}
+    body{background:linear-gradient(red,blue)}
